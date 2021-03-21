@@ -1,0 +1,35 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "extends": [
+    "airbnb",
+    "plugin:flowtype/recommended",
+    "plugin:jest/all"
+  ],
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "plugins": [
+    "flowtype",
+    "jest"
+  ],
+  "rules": {
+  },
+  "settings": {
+    "import/resolver": {
+      "eslint-import-resolver-webpack": {
+        "config": "webpack.config.js"
+      }
+    }
+  }
+}

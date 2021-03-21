@@ -1,0 +1,33 @@
+{
+    "cSpell.words": [
+      "aftereach",
+      "beforeeach",
+      "commitlint",
+      "daddou",
+      "eslintignore",
+      "flowtype",
+      "gmail",
+      "helvtica",
+      "lightblue",
+      "onaudioend",
+      "onaudiostart",
+      "onend",
+      "onnomatch",
+      "onresult",
+      "onsoundend",
+      "onsoundstart",
+      "onspeechend",
+      "onspeechstart",
+      "plugin",
+      "readonly",
+      "recommended",
+      "rstyle",
+      "rstyles",
+      "stylelint",
+      "unmount"
+    ],
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "javascript.validate.enable": false,
+    "workbench.colorTheme": "One Dark Pro Monokai Darker"
+}
